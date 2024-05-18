@@ -6,4 +6,6 @@ Table contains the following columns: index, id, title, show, description, relea
 
 Question 1: 
 
-On the given data of Rating of movies and series (it is based on data of IMDB which is publicly accessible), prepare a Dashboard on rating data of movies and series
+On the given data of Rating of movies and series (it is based on data of IMDB which is publicly accessible), prepare a Dashboard on rating data of movies and series.
+
+
